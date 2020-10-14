@@ -1,0 +1,3 @@
+include ':base_ui_lib'
+include ':app'
+rootProject.name = "MyLibApplication"
